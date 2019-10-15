@@ -1,0 +1,35 @@
+body{
+    background-image:url("https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_the_UNIA.svg/1200px-Flag_of_the_UNIA.svg.png");
+}
+.backhand{
+    width:200px;
+}
+.serve{
+    width:200px;
+    height:135px;
+}
+.forehand{
+    width:200px;
+}
+.row{
+    display:flex;
+}
+
+.caption{
+    color:white;
+}
+
+.serena{
+    display:none;
+}
+.sloane{
+    display:none;
+}
+.coco{
+    display:none;
+}
+.naomi{
+    display:none;
+}
+
+    
